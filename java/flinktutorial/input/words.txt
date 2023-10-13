@@ -1,3 +1,0 @@
-hello flink 
-hello world 
-hello java
